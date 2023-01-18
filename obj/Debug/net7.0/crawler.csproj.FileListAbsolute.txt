@@ -1,0 +1,17 @@
+C:\Users\BernardoMiróDruziki\Desktop\crawler\bin\Debug\net7.0\crawler.exe
+C:\Users\BernardoMiróDruziki\Desktop\crawler\bin\Debug\net7.0\crawler.deps.json
+C:\Users\BernardoMiróDruziki\Desktop\crawler\bin\Debug\net7.0\crawler.runtimeconfig.json
+C:\Users\BernardoMiróDruziki\Desktop\crawler\bin\Debug\net7.0\crawler.dll
+C:\Users\BernardoMiróDruziki\Desktop\crawler\bin\Debug\net7.0\crawler.pdb
+C:\Users\BernardoMiróDruziki\Desktop\crawler\obj\Debug\net7.0\crawler.csproj.AssemblyReference.cache
+C:\Users\BernardoMiróDruziki\Desktop\crawler\obj\Debug\net7.0\crawler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BernardoMiróDruziki\Desktop\crawler\obj\Debug\net7.0\crawler.AssemblyInfoInputs.cache
+C:\Users\BernardoMiróDruziki\Desktop\crawler\obj\Debug\net7.0\crawler.AssemblyInfo.cs
+C:\Users\BernardoMiróDruziki\Desktop\crawler\obj\Debug\net7.0\crawler.csproj.CoreCompileInputs.cache
+C:\Users\BernardoMiróDruziki\Desktop\crawler\obj\Debug\net7.0\crawler.dll
+C:\Users\BernardoMiróDruziki\Desktop\crawler\obj\Debug\net7.0\refint\crawler.dll
+C:\Users\BernardoMiróDruziki\Desktop\crawler\obj\Debug\net7.0\crawler.pdb
+C:\Users\BernardoMiróDruziki\Desktop\crawler\obj\Debug\net7.0\crawler.genruntimeconfig.cache
+C:\Users\BernardoMiróDruziki\Desktop\crawler\obj\Debug\net7.0\ref\crawler.dll
+C:\Users\BernardoMiróDruziki\Desktop\crawler\bin\Debug\net7.0\HtmlAgilityPack.dll
+C:\Users\BernardoMiróDruziki\Desktop\crawler\obj\Debug\net7.0\crawler.csproj.CopyComplete
